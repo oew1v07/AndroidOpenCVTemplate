@@ -38,6 +38,8 @@ public class MyActivity extends AppCompatActivity {
             }
         });
 
+        // Creates a matrix to make sure that openCV is properly installed
+
         Mat test = new Mat(200, 200, CvType.CV_8UC1);
         Imgproc.equalizeHist(test, test);
     }

@@ -1,4 +1,4 @@
-package com.example.olivia.myapplication;
+package com.example.name.myapplication;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
