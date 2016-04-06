@@ -1,4 +1,4 @@
-package com.example.olivia.myapplication;
+package com.example.name.myapplication;
 
 import org.junit.Test;
 
